@@ -58,6 +58,9 @@ export default {
             height: 50px;
             float: left;
             padding: 0 10px;
+            &:focus {
+              outline: none;
+            }
         }
         .errLog-container {
             display: inline-block;
