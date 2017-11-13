@@ -26,7 +26,7 @@ npm run build
 npm run build --report
 ```
 
-## Demo
+<!-- ## Demo
 ![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
 
 ## Related Project
@@ -36,4 +36,4 @@ npm run build --report
 
 
 ## License
-[MIT](https://github.com/PanJiaChen/vueAdmin-template/blob/master/LICENSE) license.
+[MIT](https://github.com/PanJiaChen/vueAdmin-template/blob/master/LICENSE) license. -->
